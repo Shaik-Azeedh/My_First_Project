@@ -3,6 +3,6 @@ public class Test04 {
      System.out.println("welcome to java world");
         System.out.println("welcome to java world");
        for(int i=0;i<50;i++) {
-           System.out.println("SYED NASREEN");}
+           System.out.println("SHAIK FARIDA");}
     }
 }
